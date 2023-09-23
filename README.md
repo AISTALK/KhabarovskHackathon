@@ -1,0 +1,2 @@
+# KhabarovskHackathon
+Attention control
